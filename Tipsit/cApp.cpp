@@ -8,7 +8,7 @@ cApp::cApp()
 
 cApp::~cApp()
 {
-}
+}//bella
 
 bool cApp::OnInit()
 {
